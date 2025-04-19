@@ -1,0 +1,46 @@
+{
+    "kind":"androidenterprise#managedConfiguration",
+    "productId":"app:com.android.chrome",
+    "managedProperty":[
+      {
+         "key":"AutofillCreditCardEnabled",
+         "valueBool":false
+      },
+      {
+         "key":"BrowserSignin",
+         "valueString":"1"
+      }, 
+      {
+         "key":"ChromeForTestingAllowed",
+         "valueBool":false
+      },
+      {
+         "key":"DefaultPopupsSetting",
+         "valueString":"2"
+      },
+      {
+         "key":"HomepageLocation",
+         "valueString": ""
+      },
+      {
+         "key":"IncognitoModeAvailability",
+         "valueString":"1"
+      },
+      {
+         "key":"ManagedBookmarks",
+         "valueString": "[{\"toplevel_name\":\"Company Favorites\"},{\"name\":\"Company Websites\",\"children\":[{\"url\":\"\",\"name\":\"DataSphereAI Homepage\"}]},{\"name\":\"Microsoft Websites\",\"children\":[{\"url\":\"https://myapplications.microsoft.com/\",\"name\":\"Microsoft My Apps\"},{\"url\":\"https://portal.manage.microsoft.com\",\"name\":\"Company Portal\"}]}]"
+      },
+      {
+        "key":"NTPContentSuggestionsEnabled",
+        "valueBool":false
+      },
+      {
+         "key":"PasswordSharingEnabled",
+         "valueBool":false
+      },
+      {
+         "key":"ShoppingListEnabled",
+         "valueBool":false
+      }
+    ]
+ }
