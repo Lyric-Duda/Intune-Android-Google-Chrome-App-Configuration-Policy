@@ -17,6 +17,16 @@ This JSON file is structured to
 * Disable Incognito Mode
 * Set the homepage to the company SharePoint homepage
 
+# Demo Images
+
+## Google Chrome Intune App Configuration Policy Settings
+
+![Google Chrome Intune Settings](https://ldgithubstorageaccount.blob.core.windows.net/githubimages/Google%20Chrome%20App%20Configuration%20Policy%20Information/Google%20Chrome%20App%20Configuration%20Full%20Size.png)
+
+* In addition. This policy "Auto Grants" Location permissions for Google Chrome
+
+# Intune Configuration Information
+
 ## Adding the Google Chrome App Configuration Policy
 
 To create the Google Chrome App Configuration Policy
@@ -42,14 +52,6 @@ To create the Google Chrome App Configuration Policy
         1. Add desiered Users, Devices, or Groups
     * Review + create
         * Review then click create
-
-# Demo Images
-
-## Google Chrome Intune App Configuration Policy Settings
-
-![Google Chrome Intune Settings](https://ldgithubstorageaccount.blob.core.windows.net/githubimages/Google%20Chrome%20App%20Configuration%20Policy%20Information/Google%20Chrome%20App%20Configuration%20Full%20Size.png)
-
-* In addition. This policy "Auto Grants" Location permissions for Google Chrome
 
 # Referenced Links
 
