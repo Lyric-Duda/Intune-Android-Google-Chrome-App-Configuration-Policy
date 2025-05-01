@@ -8,7 +8,7 @@
 
 * I took the template that you can download from intune when you make a "App Configuration Policy" for "Google Chrome" and structured it to be "3 Space Tab"
 
-## Google Chrome
+## Google Chrome JSON Structure
 
 This JSON file is structured to
 
