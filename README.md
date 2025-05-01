@@ -1,27 +1,25 @@
-# Microsoft Edge App Configuration Policy Information
+# Google Chrome App Configuration Policy Information
 
-* This is my Microsoft Edge App Configuration Policy for Fully Managed Company Owned Devices
+* This is my Google Chrome App Configuration Policy for Fully Managed Company Owned Devices
 
 # JSON Configuration Information
 
-## Microsoft Edge Custom Template
+## Google Chrome Custom Template
 
-* I took the template that you can download from intune when you make a "App Configuration Policy" for "Microsoft Edge" and structured it to be "3 Space Tab"
+* I took the template that you can download from intune when you make a "App Configuration Policy" for "Google Chrome" and structured it to be "3 Space Tab"
 
-## Microsoft Edge JSON Structure
+## Google Chrome JSON Structure
 
 This JSON file is structured to
 
 * Enable Browser Sign In Settings
-* Add Company Favorites to Microsoft Edge
+* Add Company Bookmarks to Google Chrome
 * Disable Incognito Mode
 * Set the homepage to the company SharePoint homepage
-* Set the default search engine to google
-* Disable unneeded Microsoft Edge features
 
-## Adding the JSON to Intune
+## Adding the Google Chrome App Configuration Policy
 
-To create the Microsoft Edge App Configuration Policy
+To create the Google Chrome App Configuration Policy
 1. Navagate to Apps - Android - Configuration
 2. Create a "Managed Device" policy
     * Basic
@@ -35,7 +33,7 @@ To create the Microsoft Edge App Configuration Policy
                 + Fully Managed, Dedicated, and Corporate-Owned Work Profile Only
                 + Personally-Owned Work Profile Only
         4. Targeted App
-            * Microsoft Edge
+            * Google Chrome
     * Settings
         1. Configuration Settings
             * Enter JSON data
@@ -47,12 +45,12 @@ To create the Microsoft Edge App Configuration Policy
 
 # Demo Images
 
-## Microsoft Edge Intune App Configuration Policy Settings
+## Google Chrome Intune App Configuration Policy Settings
 
-![Microsoft Edge Intune Settings](https://ldgithubstorageaccount.blob.core.windows.net/githubimages/Microsoft%20Edge%20App%20Configuration%20Policy%20Information/Microsoft%20Edge%20App%20Configuration%20Full%20Size.png)
+![Google Chrome Intune Settings](https://ldgithubstorageaccount.blob.core.windows.net/githubimages/Google%20Chrome%20App%20Configuration%20Policy%20Information/Google%20Chrome%20App%20Configuration%20Full%20Size.png)
 
-* In addition. This policy "Auto Grants" Location permissions for Microsoft Edge
+* In addition. This policy "Auto Grants" Location permissions for Google Chrome
 
 # Referenced Links
 
-* [Configure Microsoft Edge for Android devices using Intune](https://learn.microsoft.com/en-us/mem/intune/apps/manage-microsoft-edge)
+* [Configure Google Chrome for Android devices using Intune](https://learn.microsoft.com/en-us/mem/intune/apps/apps-configure-chrome-android)
