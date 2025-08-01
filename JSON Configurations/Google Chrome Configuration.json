@@ -28,7 +28,7 @@
       },
       {
          "key":"ManagedBookmarks",
-         "valueString": "[{\"toplevel_name\":\"Company Favorites\"},{\"name\":\"Company Websites\",\"children\":[{\"url\":\"\",\"name\":\"DataSphereAI Homepage\"}]},{\"name\":\"Microsoft Websites\",\"children\":[{\"url\":\"https://myapplications.microsoft.com/\",\"name\":\"Microsoft My Apps\"},{\"url\":\"https://portal.manage.microsoft.com\",\"name\":\"Company Portal\"}]}]"
+         "valueString": "[{\"toplevel_name\":\"Company Bookmarks\"},{\"name\":\"Company Websites\",\"children\":[{\"url\":\"\",\"name\":\"DataSphereAI Homepage\"}]},{\"name\":\"Microsoft Websites\",\"children\":[{\"url\":\"https://myapplications.microsoft.com/\",\"name\":\"Microsoft My Apps\"},{\"url\":\"https://portal.manage.microsoft.com\",\"name\":\"Company Portal\"}]}]"
       },
       {
         "key":"NTPContentSuggestionsEnabled",
